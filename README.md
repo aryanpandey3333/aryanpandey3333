@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on UI Designs and NLP Chatbot<br>👯 I’m looking to collaborate on Training AI Modules for conversation<br>🤝 I’m looking for help with NLP Engineering, Modules Pipelining<br>🌱 I’m currently learning Flutter, Cyber Security from Microsoft<br>💬 Ask me about NLP <br>⚡ Fun fact - I am good at engineering tough solutions, well if you don't believe it lets collaborate then.
+🔭 I’m currently working on MSOSA Tool to build Onboard Chargers architecture<br>👯 I’m looking to collaborate on Training AI Modules for conversation<br>🤝 I’m looking for help with NLP Engineering, Modules Pipelining<br>🌱 I’m currently learning Flutter, Cyber Security from Microsoft<br>💬 Ask me about NLP <br>⚡ Fun fact - I am good at engineering tough solutions, well if you don't believe it lets collaborate then.
 
 
 ## 🌐 Socials:

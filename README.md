@@ -114,11 +114,6 @@ If you're a recruiter/engineer visiting this profile — check these pinned repo
 
 ---
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=aryanpandey3333&theme=onestar&no-frame=true&margin-w=8" />
-
----
-
 ## ✨ Quote of the Day
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 

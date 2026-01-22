@@ -1,11 +1,20 @@
-<!-- Profile Header -->
+<!-- ========================= -->
+<!--       PROFILE README      -->
+<!-- ========================= -->
+
 <h1 align="center">Hi 👋, I'm Aryan Pandey</h1>
-<h3 align="center">Associate Software Engineer @ KPIT | AI + Automotive Systems | Tooling & Automation</h3>
+<h3 align="center">Associate Software Engineer @ KPIT | Automotive Tooling • AI Engineering • Agentic RAG</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryanpandey33/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Aryan%20Pandey-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://discord.gg/innocentsoulxx3" target="_blank"><img src="https://img.shields.io/badge/Discord-innocentsoulxx3-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.instagram.com/aryanpandeyy_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@aryanpandeyy_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aryanpandey33/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Pandey-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://discord.gg/innocentsoulxx3" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-innocentsoulxx3-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/aryanpandeyy_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@aryanpandeyy_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -14,29 +23,48 @@
 
 - 🧑‍💻 **Associate Software Engineer @ KPIT**
 - ⚡ Building **Automotive architecture tooling** (MSOSA / SysML / MagicDraw ecosystem)
-- 🤖 Passionate about **Agentic AI**, **RAG pipelines**, **LLM tooling**, and **automation**
-- 🧠 Working on **Multi-Agent Systems** for code-to-requirement & documentation intelligence
-- 🔥 I love solving tough engineering problems and turning ideas into working products
+- 🤖 Passionate about **Agentic AI**, **RAG pipelines**, **LLM tools**, and engineering automation
+- 🧠 Working on **AI systems** that bridge **Code ⇄ Requirements ⇄ Architecture ⇄ Documentation**
+- 🔥 Fun fact: I love building tough solutions — if you don’t believe it, let’s collaborate 😄
 
 ---
 
-## 🛠️ What I Work On
+## 🧠 Market-level Projects & Upcoming Ideas
 
-✅ **Automotive Engineering & Tooling**
-- Model-based architecture support (SysML / MagicDraw / MSOSA)
-- Plug-in development & workflow automation
+These are the projects I'm actively working on / building next — focused on real-world use cases and production-level AI engineering.
 
-✅ **AI Engineering**
-- RAG pipelines (chunking → embedding → vector DB → retrieval)
-- Agents: planner, orchestrator, evaluator, coverage, knowledge base
-- LLM workflows (prompting, structured outputs, tool calling)
+### ✅ Market-level projects (Active)
+- 🤖 **Code-to-Requirements Multi-Agent System**
+  - Multi-agent workflow for code understanding, requirement traceability, coverage detection and gap analysis.
+  - Includes Planner Agent, Orchestrator Agent, Retrieval (RAG), Coverage Agent, Gap Detection Agent.
 
-✅ **Software**
-- Backend automation, API integrations, scripting pipelines
+- 📘 **AI Architecture Doc Generator**
+  - Auto-fills a complete Software Architecture & Design document by analyzing C source code + templates.
+  - Generates PlantUML diagrams, architecture flow, module understanding and structured documentation.
+
+- 🧾 **MISRA Warning Fixing Pipeline**
+  - Takes source code zip + MISRA warnings PDF and maps violations to the exact files/lines.
+  - Suggests and applies fixes in a controlled, auditable manner (automotive-style compliance mindset).
+
+- 🧩 **MagicDraw / SysML Automation Plugins**
+  - Plug-in & automation scripts for Magic Cyber Systems / MagicDraw.
+  - Improves productivity by automating tables, architecture extraction and repetitive modeling workflows.
 
 ---
 
-## ⚙️ Tech Stack
+### 🌱 Upcoming ideas (Planned)
+- 🏗️ **Agentic AI Platform (Langflow-like components)**
+  - A component-based AI platform (agents + RAG + workflows) that can power multiple AI solutions.
+
+- 🧠 **Chatbot Builder Business**
+  - A builder product similar to Yellow.ai / Engati / Landbot with custom AI pipelines and plugins.
+
+- 📂 **Smart Notes Cloud App**
+  - A system for users to upload notes online, organize them, and query them using AI search.
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -45,7 +73,7 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Frameworks / Tools
+### Tools / Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -61,14 +89,19 @@
 
 ---
 
-- 🔥 **Code-to-Requirement Multi-Agent System**
-- 📘 **AI Tool to Auto-fill Architecture Docs (PlantUML + Code Analysis)**
-- 🧠 **LLM QA Bot for Cloud Data Ingestion Pipelines**
-- 🛠️ **MagicDraw / SysML Automation Plugins**
+## 📌 Featured Repositories (What to Pin)
+If you're a recruiter/engineer visiting this profile — check these pinned repositories:
+
+- ⭐ **Code-to-Requirements Multi-Agent System**
+- ⭐ **AI Architecture Doc Generator**
+- ⭐ **MISRA Warning Fixing Pipeline**
+- ⭐ **MagicDraw / SysML Automation Plugins**
+- ✅ **Enterprise RAG QA Bot**
+- ✅ **SwiftChat / Product Build**
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryanpandey3333&theme=omni&hide_border=true&show_icons=true" width="49%"/>
@@ -81,8 +114,7 @@
 
 ---
 
-## 🏆 Highlights
-
+## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=aryanpandey3333&theme=onestar&no-frame=true&margin-w=8" />
 
 ---
@@ -95,3 +127,5 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=aryanpandey3333&icon=2&color=1" />
 </p>
+
+<!-- Proudly upgraded by ChatGPT -->
